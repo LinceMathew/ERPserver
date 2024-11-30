@@ -7,6 +7,7 @@ https://python-poetry.org/docs/#installing-with-the-official-installer
 2. Run `poetry install` (installs the dependenies just like yarn of npm)
 2. Run  `poetry shell` (setting up virtual env )
 3. Run `poetry run python manage.py runserver`
+/////////////
 
 
 * For adding more packages use `poetry add` command instead of using pip
